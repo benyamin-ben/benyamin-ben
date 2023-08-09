@@ -1,6 +1,6 @@
 Hi 🙋‍♂️ My name is benyamin
 
-front-end developer
+🌟front-end developer
 
 
 
@@ -11,12 +11,12 @@ front-end developer
 <br>
 <h2> my skills : </h2>
 
-<img src='html.png'>
-<img src='css.png'>
-<img src='js.png'>
-<img src='boot.png'>
-<img src='git.png'>
-<img src='npm.png'>
+<img src='html.png'><img src='css.png'><img src='js.png'><img src='boot.png'><img src='git.png'><img src='npm.png'>
+
+
+
+
+
 
 <img src='react.png' height='42'>
 
