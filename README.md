@@ -29,7 +29,7 @@ Hi 🙋‍♂️ My name is benyamin
 
 ---
 
-<h3>Connct Me : </h3>
+<h3>Connect Me : </h3>
 <a  href='https://www.instagram.com/ben_prog_math'> 
 <img src='insta.png' height='40'>
 </a>
