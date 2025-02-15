@@ -1,11 +1,10 @@
-## Hi, I'm [Your Name] 👋  
+## Hi, I'm benyamin 👋  
 
 🚀 Front-End Developer | React & JavaScript Enthusiast  
 
 💻 **Tech Stack:**  
-React, Redux, React Query, TypeScript, Tailwind, Sass  
+React, Redux, React Query, TypeScript , jQuery , Tailwind , Sass , MUI , Bootstrap 
 
-🔗 **Connect with me:**  
-[LinkedIn](your-linkedin-url) • [Portfolio](your-portfolio-url)  
+🔗 Connect with me:
+09361361311
 
-✨ Always learning & building cool stuff!  
